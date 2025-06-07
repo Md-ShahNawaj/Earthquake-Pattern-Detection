@@ -36,7 +36,7 @@ This project analyzes seismic activity data from South Asia to uncover patterns 
 
 ---
 
-###  How to Run
+###  How to Run this repository
 1. Clone this repository:
 git clone https://github.com/yourusername/earthquake-pattern-detection.git
 cd earthquake-pattern-detection
